@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<!-- <h3 align="center">🚀 Full Stack Developer | 🛠 Tech Enthusiast </h3> -->
+<h3 align="center">🚀 Full Stack Developer | 🛠 Tech Enthusiast </h3>
 
 <!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHc2cmN6dXBpZGN6aDU4bThpZHRvMWtmaTZjMjB1bGcyeGplY2UybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="350" alt="coding gif" />
