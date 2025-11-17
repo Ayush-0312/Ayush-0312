@@ -95,7 +95,7 @@
   <a href="mailto:theayushgupta.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yoda.codes/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/theayushgupta.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
