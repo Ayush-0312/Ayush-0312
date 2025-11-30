@@ -104,5 +104,5 @@
 
 ### 🧠 Quote I Live By
 
-> _"Keep pushing forward"_
+> _"Keep moving forward"_
 
